@@ -58,8 +58,8 @@ android {
         implementation 'com.squareup.retrofit2:adapter-rxjava2:2.4.0'
         implementation 'com.squareup.retrofit2:converter-gson:2.4.0'
         //    RxJava
-        implementation 'io.reactivex.rxjava2:rxandroid:2.0.2'
-        implementation 'io.reactivex.rxjava2:rxjava:2.1.12'
+        implementation 'io.reactivex.rxjava2:rxandroid:2.1.0'
+        implementation 'io.reactivex.rxjava2:rxjava:2.2.3'
         //    glide
         implementation 'com.github.bumptech.glide:glide:4.6.1'
         annotationProcessor 'com.github.bumptech.glide:compiler:4.6.1'

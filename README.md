@@ -1,6 +1,34 @@
 # WanAndroid Jetpack+MVVM
 
 ## 关键词
+
+DataBinding【fVBId】  ┑   V
+ViewModel【V-*-M】    ┙
+LiveData【自动更新】      M
+Navigation【跳转】
+-LifeCycle【生命周期】
+Hawk【SP】DataStore
+Room【数据库】
+用了Navigation，ViewModel，DataBinding,LifeCycle,LiveData。后续paging，room，workManage等系统组件。
+
+（架构-界面-行为-基础）DataBinding。LiveData。Paging。Room。ViewModel。Lifecycles
+（架构-界面-行为-基础）。。Paging。。。Hilt
+
+【fVBId】DataBinding
+【V-*-M】ViewModel
+【setText】LiveData
+【生命周期】LifeCycle
+【依赖注入】Hilt
+【后台任务】WorkManage
+【跳转】Navigation
+【SP】DataStore
+【数据库】Room
+【分页】Paging
+
+
+
+
+
 Java，MVVM，JetPack
 
 ## 前言

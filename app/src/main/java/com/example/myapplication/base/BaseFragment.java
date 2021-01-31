@@ -162,6 +162,9 @@ public abstract class BaseFragment<DB extends ViewDataBinding, VM extends BaseVi
         }
     }
 
+    /**
+     * 初始化收藏状态。
+     */
     private void initCollectState() {
         if (mViewModel == null) {
             return;
